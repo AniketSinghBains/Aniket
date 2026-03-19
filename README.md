@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniketSinghBains
+- 👋 Hi, I’m @Aniket
 - 👀 I’m interested in ...Data Analyst |Power Bi |SQL |Excel |Python 
 - 🌱 I’m currently learning ...Power Bi |SQL | Core Python
 - 💞️ I’m looking to collaborate on ...Google,Microsoft,Deloitte,TCS,Myntra,Congnizant
